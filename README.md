@@ -341,6 +341,18 @@ https://github.com/kahiumahamedfahim/Library-Management-System
 
 ---
 
+# 💊 Pharmacy Management System
+
+### Windows Forms Desktop Application
+
+A pharmacy management project built with C# and Windows Forms.
+
+🔗 **Repository**
+
+https://github.com/kahiumahamedfahim/pharmacy-management-system-C-windows-form-
+
+---
+
 # 💳 Google Wallet Pass Backend
 
 ### Backend for Google Wallet Passes
