@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/kahium-ahamed-fahim-/">
   <img src="https://img.shields.io/badge/LinkedIn-Fahim%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://codeforces.com/profile/kahiumahamedfahim">
+  <img src="https://img.shields.io/badge/Codeforces-kahiumahamedfahim-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 <a href="mailto:kahiumahamedfahim@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -343,9 +346,24 @@ https://github.com/kahiumahamedfahim/Library-Management-System
 
 # 💊 Pharmacy Management System
 
-### Windows Forms Desktop Application
+### Role-Based Pharmacy Administration & Checkout App
 
-A pharmacy management project built with C# and Windows Forms.
+An admin and manager desktop application for maintaining pharmacy users and products, processing sales, and reviewing saved bill records. Completing a sale updates product stock and stores the customer and bill details.
+
+### 🔥 Core Workflows
+
+- 🔐 Admin and Manager sign-in with role-based workspaces
+- 👥 Add, search, edit, and remove user accounts and roles
+- 💊 Manage products, companies, quantities, and prices
+- 🧾 Build bills, calculate item and bill totals, and complete sales
+- 📚 Review saved customer and sales records
+- 📦 Automatically update inventory after checkout
+
+### 🧰 Tech Stack
+
+`C#` `Windows Forms` `.NET Framework 4.8`
+
+`SQL Server / SQL Server Express` `ADO.NET`
 
 🔗 **Repository**
 
@@ -355,9 +373,27 @@ https://github.com/kahiumahamedfahim/pharmacy-management-system-C-windows-form-
 
 # 💳 Google Wallet Pass Backend
 
-### Backend for Google Wallet Passes
+### Create and Update Google Wallet Generic Passes
 
-A backend project for creating and managing passes for Google Wallet.
+A NestJS REST API that creates Google Wallet Generic Passes and returns a Save to Google Wallet link. Each pass displays a name, label, numeric value, and unique QR code. The API can update an existing pass so its value changes on the user's installed Wallet pass without adding it again.
+
+### 🔥 Core Features
+
+- 🎟️ Create passes and generate Save to Google Wallet links
+- 🔢 Assign unique pass IDs and QR codes
+- 🔄 Update existing Wallet passes in place
+- 🗄️ Persist pass records with PostgreSQL and TypeORM
+- 🧩 Use a wallet-provider abstraction to isolate provider-specific logic
+- ✅ Validate API input and handle Wallet and database errors
+- ☁️ Deploy the backend on Render
+
+### 🧰 Tech Stack
+
+`NestJS` `Node.js` `TypeScript` `REST API`
+
+`PostgreSQL` `TypeORM` `Google Wallet API` `JWT / RS256` `Render`
+
+🔗 **Production API:** https://google-wallet-pass-backend.onrender.com
 
 🔗 **Repository**
 
@@ -546,6 +582,10 @@ I'm open to:
 
 <a href="https://www.linkedin.com/in/kahium-ahamed-fahim-/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/kahiumahamedfahim">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 <a href="mailto:kahiumahamedfahim@gmail.com">
