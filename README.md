@@ -341,6 +341,18 @@ https://github.com/kahiumahamedfahim/Library-Management-System
 
 ---
 
+# 💳 Google Wallet Pass Backend
+
+### Backend for Google Wallet Passes
+
+A backend project for creating and managing passes for Google Wallet.
+
+🔗 **Repository**
+
+https://github.com/kahiumahamedfahim/google-wallet-pass-backend
+
+---
+
 # 🧠 Engineering Mindset
 
 I believe software engineering is more than writing code.
